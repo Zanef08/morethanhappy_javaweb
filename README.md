@@ -6,7 +6,8 @@
 I. [Overview](#overview)
    1. [Introduction](#introduction)
    2. [Database](#database)
-   3. [System Functions](#system-functions)
+   4. [System Functions](#system-functions)
+      ![System Functions](https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/systemfunction.png)
 
 II. [Functional Requirements](#functional-requirements)
 
@@ -18,9 +19,13 @@ My project is a website that sells cakes. There are 2 roles: Admin and User. Whe
 Database Name: CakeManagement
 
 - **tblCakes**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/dbcake.png)
 - **tblUsers**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/dbuser.png)
 - **tblOrders**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/dborder.png)
 - **tblOrderDetails**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/dborderdt.png)
 
 ### 3. System Functions
 #### User Web Application
@@ -47,12 +52,21 @@ Database Name: CakeManagement
 
 ## II. Functional Requirements
 - **Login**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/login.jpeg)
 - **Register**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/register.jpeg)
 - **Home**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/homelogin.jpeg)
 - **Our Cakes**
-- **About Us**
-- **Add to cart**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/ourcake.jpeg)
 - **Cart**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/cart.jpeg)
 - **Check Out**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/checkout.jpeg)
 - **Invoice**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/invoice.jpeg)
 - **Admin**
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/admin1.jpeg)
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/admin2.jpeg)
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/admin3.jpeg)
+- (https://github.com/Zanef08/MoreThanHappy_JavaWeb/blob/main/pictures/addcake.jpeg)
